@@ -36,5 +36,4 @@ This repository demonstrates the application of **Hypothesis Testing** using Pyt
 - **API Validation**: Testing real-time data pipelines for consistency and correctness.  
 - **Decision Support**: Backing business or research decisions with statistical evidence.  
 
-Feel free to explore and adapt these techniques to your own datasets and analysis tasks!  
 
